@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Banner" />
 </p>
+
 # 👋 Welcome to my GitHub profile!
 
 My name is **Oskar Pavliuk** — I’m a graduate of 🎓 **Igor Sikorsky Kyiv Polytechnic Institute**  
