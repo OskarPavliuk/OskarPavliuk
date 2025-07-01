@@ -36,3 +36,8 @@ I enjoy learning new technologies and applying them to create real-world solutio
 ---
 
 📄 [Click here to view my Resume (PDF)](./resume.pdf)
+
+---
+
+![Weather](https://wttr.in/Berlin.png?0)
+
