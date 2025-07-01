@@ -39,6 +39,6 @@ I enjoy learning new technologies and applying them to create real-world solutio
 
 ---
 
-![Time in Berlin](https://www.biegledu.com/images/time_in_berlin.png)
+[![Local Time](https://www.worldtimebuddy.com/clocks/time.png)](https://www.worldtimebuddy.com/)
 
 
