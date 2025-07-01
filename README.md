@@ -32,3 +32,7 @@ I enjoy learning new technologies and applying them to create real-world solutio
 - **Unit Testing** ✅  
 - **CI/CD Basics** ⚙️  
 - **Docker**, **Docker Compose**, **Docker Swarm** 🐳
+
+---
+
+📄 [Click here to view my Resume (PDF)](./resume.pdf)
