@@ -39,7 +39,7 @@ I enjoy learning new technologies and applying them to create real-world solutio
 
 ---
 
-![Weather](https://wttr.in/Berlin?format=3)
+![Weather](https://wttr.in/Berlin.png?0)
 
 
 
