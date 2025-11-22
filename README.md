@@ -6,7 +6,7 @@
 
 My name is **Oskar Pavliuk** — I’m a graduate of 🎓 **Igor Sikorsky Kyiv Polytechnic Institute**  
 (major: *Information Systems and Technologies*)  
-and currently a **4th semester (2nd year)** 🧑‍💻 student at **Technische Universität Berlin**  
+and currently a **5th semester** 🧑‍💻 student at **Technische Universität Berlin**  
 (major: *Computer Science*).
 
 ---
@@ -35,15 +35,12 @@ I enjoy learning new technologies and applying them to create real-world solutio
 - **IDEs**: IntelliJ IDEA, Rider, PyCharm, CLion, DataGrip, PopSQL 💻  
 - **Unit Testing** ✅  
 - **CI/CD Basics** ⚙️  
-- **Docker**, **Docker Compose**, **Docker Swarm** 🐳
+- **Docker**, **Docker Compose**, **Docker Swarm** 🐳  
+- **Apache Airflow** 🪂  
+- **Google BigQuery** 🟦  
+- **Tableau** 📊
+
 
 ---
 
 📄 [Click here to view my Resume (PDF)](./resume.pdf)
-
----
-
-![Weather](https://wttr.in/Berlin.png?0)
-
-
-
